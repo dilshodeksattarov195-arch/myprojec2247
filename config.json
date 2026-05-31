@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfelete",
+        "uuid": 17713101,
+        "checksum": "fqs1run"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
